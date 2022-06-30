@@ -65,7 +65,7 @@ ORDER BY DESC (?schemeID)
 
 result：
 
-![image-20220630160021016](..\query_result.assets\image-20220630160021016.png)
+![image-20220630160021016](../query_result.assets/image-20220630160021016.png)
 
 query2：
 
