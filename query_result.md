@@ -65,7 +65,7 @@ ORDER BY DESC (?schemeID)
 
 result：
 
-![image-20220630160021016](../query_result.assets/image-20220630160021016.png)
+![image-20220630160021016](./query_result.assets/image-20220630160021016.png)
 
 query2：
 
@@ -126,7 +126,7 @@ ORDER BY ?schemeID
 
 result：
 
-![image-20220630160421262](.\query_result.assets\image-20220630160421262.png)
+![image-20220630160421262](./query_result.assets/image-20220630160421262.png)
 
 
 
@@ -184,5 +184,5 @@ UNION
 
 result:
 
-![image-20220630160330153](query_result.assets\image-20220630160330153.png)
+![image-20220630160330153](./query_result.assets/image-20220630160330153.png)
 
