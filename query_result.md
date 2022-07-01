@@ -65,7 +65,7 @@ ORDER BY DESC (?schemeID)
 
 result：
 
-![image-20220630160021016](C:\Users\abhay\Desktop\query_result.assets\image-20220630160021016.png)
+![image-20220630160021016](./query_result.assets/image-20220630160021016.png)
 
 query2：
 
@@ -121,7 +121,7 @@ UNION
 
 result:
 
-![image-20220630160330153](C:\Users\abhay\Desktop\query_result.assets\image-20220630160330153.png)
+![image-20220630160330153](./query_result.assets/image-20220630160330153.png)
 
 
 
@@ -183,7 +183,7 @@ ORDER BY ?schemeID
 
 result：
 
-![image-20220701091421596](C:\Users\abhay\Desktop\query_result.assets\image-20220701091421596.png)
+![image-20220701091421596](./query_result.assets/image-20220701091421596.png)
 
 
 
